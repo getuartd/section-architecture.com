@@ -1,0 +1,45 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = INTERCON FERIZAJ \
+by |SECTION ARCHITECTURE|
+
+### Title
+tour.name = INTERCON
+
+## Skin
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.1000000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.1vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat';"><B>INTERCON CONSTRUCTION</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><B>INTERCON CONSTRUCTION</B> operon që nga viti 2001 dhe parimi kryesor ka qenë ndërtimi i objekteve kualitative dhe ofrimi i kushteve sa më të mira në to. Dizajni, arkitektura, siguria dhe fortësia, ngrohtësia, izolimi e shumë tjera na bëjnë që të dallojmë në tregun Kosovar.</SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-family:'Montserrat';"><B>Intercon Construction gjendet ne rr."Uran Tinova" në Ferizaj.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-family:'Montserrat';"><B>Ju mirëpresim!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.1000000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.1vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.4630541871921174vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;font-family:'Montserrat';"><B>INTERCON CONSTRUCTION</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4630541871921174vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;"><B>INTERCON CONSTRUCTION</B></SPAN><SPAN STYLE="font-size:2.46vh;"> operon që nga viti 2001 dhe parimi kryesor ka qenë ndërtimi i objekteve kualitative dhe ofrimi i kushteve sa më të mira në to. Dizajni, arkitektura, siguria dhe fortësia, ngrohtësia, izolimi e shumë tjera na bëjnë që të dallojmë në tregun Kosovar.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4630541871921174vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.46vh;font-family:'Montserrat';"><B>Intercon Construction gjendet ne rr."Uran Tinova" në Ferizaj.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.46vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4630541871921174vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.46vh;font-family:'Montserrat';"><B>Ju mirëpresim!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.46vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6F3EBF71_79C5_2A28_41DE_2A54281C2AD9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>INTERCON CONSTRUCTION</B></SPAN></SPAN></DIV></div>
+HTMLText_6F3EBF71_79C5_2A28_41DE_2A54281C2AD9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.920000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.92vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>INTERCON CONSTRUCTION</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_6988787F_7945_3618_41CB_A719A18E0796.label = Photo Album 02
+album_6988787F_7945_3618_41CB_A719A18E0796_0.label = 01
+album_6988787F_7945_3618_41CB_A719A18E0796_1.label = 02
+album_6988787F_7945_3618_41CB_A719A18E0796_2.label = 03
+album_6988787F_7945_3618_41CB_A719A18E0796_3.label = 04
+album_6988787F_7945_3618_41CB_A719A18E0796_4.label = 05
+map_782D03DE_74E7_042A_41D0_237ADA871275.label = Situacioni
+panorama_64810FE9_6FC4_388C_41BB_8C7344C241CC.label = B 3
+panorama_648210ED_6FC5_E885_41D7_C1D5002AA6F2.label = B 6
+panorama_648247A8_6FC4_E88B_41D8_BFFF4A8E4CF3.label = 3
+panorama_6483B49A_6FC4_288F_41B5_B86AFD59A575.label = B 2
+panorama_6486B2F0_6FC4_289B_4188_2F423831CA3F.label = 4
+panorama_648CA5FF_6FC5_E885_41AC_61221DEF7EF9.label = B 5
+panorama_648DDC45_6FC4_1F85_41C9_B0D772D5B96A.label = B 7
+panorama_648FAB01_6FC4_197D_41D3_F85B4A74B493.label = B 4
+panorama_64A67104_6FC4_E97B_41B5_A8FBBA909C88.label = 01
+panorama_64EDCC97_6FC4_F885_418F_93388B53F573.label = 02
+panorama_64FA1389_6FC4_688D_41CF_4EF3AAC9032A.label = 7
+panorama_64FAD944_6FC4_19FB_41D6_39EF5A289822.label = B 1
+panorama_64FBFE31_6FC4_3B9D_41D3_10EA3E0A9401.label = 5
+panorama_64FEF8C6_6FC4_1887_41D5_5E02B5070693.label = 6
+panorama_64FFCE21_6FC4_7BBD_41A8_28D4D45BD0E8.label = 8
+panorama_6E6D3D98_704C_388B_41D8_196AF738BD75.label = B 8
